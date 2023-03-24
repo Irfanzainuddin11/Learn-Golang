@@ -12,6 +12,6 @@ this is for get list book
 
 ![this is for text](./img/GET%20book.png)
 
-![this is for text](./img/POST%20book.png)
+![this is for text](./img/POST%20createbook.png)
 
-![this is for text](./img/PUT%20book.png)
+![this is for text](./img/PUT%20updatebook.png)
