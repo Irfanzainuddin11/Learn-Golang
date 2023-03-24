@@ -9,3 +9,9 @@ This is verybeginning i learn using gin as goframeworkand push this to git
 this is for get list book
 
 ![this is for text](./img/DELETE%20book.png)
+
+![this is for text](./img/GET%20book.png)
+
+![this is for text](./img/POST%20book.png)
+
+![this is for text](./img/PUT%20book.png)
